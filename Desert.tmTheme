@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Yinghai Zhao</string>
+	<string>Alexander Howes</string>
 	<key>name</key>
 	<string>Desert</string>
 	<key>settings</key>
@@ -12,7 +12,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#242424</string>
+				<string>#141414</string>
 				<key>caret</key>
 				<string>#656565</string>
 				<key>foreground</key>
@@ -81,9 +81,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#9AFF9A</string>
+				<string>#ff7d7d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +94,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EEA2AD</string>
+				<string>#ff7d7d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -107,7 +107,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EEA2AD</string>
+				<string>#ff7d7d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -120,7 +120,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EEA2AD</string>
+				<string>#ff7d7d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -267,7 +267,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#242424</string>
+				<string>#141414</string>
 				<key>foreground</key>
 				<string>#CDC673</string>
 			</dict>
@@ -280,7 +280,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#242424</string>
+				<string>#141414</string>
 				<key>foreground</key>
 				<string>#CDC673</string>
 			</dict>
@@ -304,7 +304,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CBE682</string>
+				<string>#f0e68c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -315,7 +315,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CAE682</string>
+				<string>#f0e68c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -326,7 +326,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CAE682</string>
+				<string>#bdb76b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -348,7 +348,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EEA2AD</string>
+				<string>#ff7d7d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -386,6 +386,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>53F8F32B-388A-46D9-9A15-A607B78D07C7</string>
+	<string>861424DD-0054-410D-B57D-597ED46494B1</string>
 </dict>
 </plist>
